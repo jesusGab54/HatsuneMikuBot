@@ -1,6 +1,6 @@
 <h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗ꫂ<br></h1>
 <p align="center">
-  <img src="https://telegra.ph/file/8adfac9d34c43ce444fbf.jpg" width="540" height="300" />
+  <img src="https://pub-00fa5790a3c142428a65f4a7f2fae1b5.r2.dev/19572809/167157235263a22b807672e.jpg" width="540" height="300" />
 </p>
 
 <p align="center">
